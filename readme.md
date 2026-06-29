@@ -226,7 +226,7 @@ NEXT_PUBLIC_API_URL=http://localhost:3001
 ## Clone Repository
 
 ```bash
-git clone https://github.com/your-username/shopper-sense-ai.git
+git clone https://github.com/Mohit-kumar123/Helium-Assignment.git
 
 cd shopper-sense-ai
 ```
