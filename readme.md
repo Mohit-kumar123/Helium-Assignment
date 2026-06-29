@@ -10,8 +10,8 @@
 
 ## 🚀 Live Demo
 
-- **Frontend:** https://your-vercel-url.vercel.app
-- **Backend API:** https://your-render-url.onrender.com
+- **Frontend:** https://helium-assignment-wine.vercel.app
+- **Backend API:** https://helium-assignment-60i8.onrender.com
 
 ---
 
